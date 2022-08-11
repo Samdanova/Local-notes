@@ -1,0 +1,12 @@
+.marginStyle {
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.divStyle {
+    max-width: 50px;
+}
+
+.jumbotronStyle {
+    background-color: #e5bebe;
+}

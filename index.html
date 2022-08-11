@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Хранилище заметок</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div class="jumbotron jumbotronStyle">
+        <h1 for="nodeInput">Заметки</h1>
+        <div class="input-group ">
+            <input type="text" class="form-control" id="nodeInput" placeholder="Введите заметку"/>
+            <button class="btn btn-dark" type="button" id="btn_add_note">Сохранить</button>
+        </div>
+    </div>
+    <div id="parent">  
+        <h2 class="marginStyle">Список заметок:</h2></br>
+        <div id="child"></div>
+        <button class="btn btn-dark marginStyle" type="button" id="btn_clear_node">Очистить</button>
+    </div>
+    <script src="index.js"></script>
+</body>
+
+</html>
