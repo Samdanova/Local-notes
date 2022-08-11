@@ -2,4 +2,4 @@
 Хранилище заметок (Local ctorage)
 
 
-![gif](https://github.com/Samdanova/Local-notes/main/src/notes.gif)
+![gif](https://samdanova.github.io/Local-notes/main/src/notes.gif)
