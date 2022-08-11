@@ -3,6 +3,6 @@
 https://samdanova.github.io/Local-notes/
 
 
-![gif](https://github.com/Samdanova/Local-notes/main/src/notes.gif)
+![imege](https://github.com/Samdanova/Local-notes/blob/main/src/notes.gif)
 
 
