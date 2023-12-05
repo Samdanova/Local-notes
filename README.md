@@ -1,5 +1,5 @@
 # Local-notes
-Хранилище заметок (Local ctorage)
+Used local storage
 https://samdanova.github.io/Local-notes/
 
 
